@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to LunarAPI</h1>
+<h1 align="center">Welcome to the future of APIs</h1>
 <h3 align="center">Innovating APIs for a Better Future</h3>
 
 <p align="center">
